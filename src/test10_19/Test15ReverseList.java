@@ -1,6 +1,5 @@
 package test10_19;
 
-import test10_19.Test14FindKthToTail.ListNode;
 
 public class Test15ReverseList {
 	
